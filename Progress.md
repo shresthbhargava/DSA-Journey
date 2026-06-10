@@ -9,5 +9,16 @@
 7.Move Zeroes
 8.Linear Search
 9.Partition Array According to given pivot in an array
-
 ```
+#9 June 2026
+```
+1.Linear Array
+2.Find Union of two Sorted Array
+3.intersection of two Sorted Array
+4.Maximum Total Subarray Value I
+```
+
+#10 June 2026
+```
+1.Missing Number
+2.Most Consecutive Ones
